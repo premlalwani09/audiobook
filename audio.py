@@ -60,7 +60,7 @@ def talk():
 
 
 image = Image.open('download.jpeg')
-imageResized = image.resize((100,100), Image.ANTIALIAS)
+imageResized = image.resize((150,100), Image.ANTIALIAS)
 image1 = ImageTk.PhotoImage(imageResized)
 
 
