@@ -47,10 +47,3 @@ This project is a Python-based Audiobook application designed and implemented us
 
 5. Sit back and enjoy listening to your audiobook!
 
-## Contributing
-
-Contributions are welcome! If you have any suggestions, enhancements, or bug fixes, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
