@@ -8,7 +8,6 @@ This project is a Python-based Audiobook application designed and implemented us
 
 - **PDF to Audiobook Conversion:** Convert PDF files into audio format for easy listening.
 - **User-Friendly GUI:** The Tkinter-based graphical interface ensures ease of use and navigation.
-- **Customization Options:** Users can select various settings such as voice type, speed, and output format.
 - **Accessibility Enhancement:** Provides an alternative way of consuming textual content for users with visual impairments or those who prefer audio formats.
 - **Multi-platform Support:** Compatible with Windows, macOS, and Linux operating systems.
 
@@ -40,11 +39,11 @@ This project is a Python-based Audiobook application designed and implemented us
    python audiobook.py
    ```
 
-2. Select a PDF file you want to convert.
+2. Click on the "Open" button to select a PDF file you want to convert.
 
 3. Customize the settings according to your preferences.
 
-4. Click on the "Convert" button to initiate the conversion process.
+4. Click on the "Talk" button to initiate the conversion process.
 
 5. Sit back and enjoy listening to your audiobook!
 
